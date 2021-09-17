@@ -1,3 +1,6 @@
+![HUION-Configuration](https://user-images.githubusercontent.com/81598419/133783344-9a277068-0641-4921-b5ad-44632abaec31.jpg)
+
+
 Installing Driver Huion H640P (All Driver)
 
 +++++++++++ First Method ++++++++++
@@ -15,5 +18,13 @@ Or copy ~/Huion-H640P/xsetwacom-huion-button.sh to /opt/Huion/
 
 Add autostart script huion.desktop to ~/.config/autostart/huion.desktop
 
-
 And finish ^_^
+
+
+------------------------------------
+
+[~] Extrait - Scrape Title
+
+Scrape title to be used as longtail keyword without monthly fee 
+
+Get it now > https://shop.frematers.com/2021/09/extrait-scrape-title.html
