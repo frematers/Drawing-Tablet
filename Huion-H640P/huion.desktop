@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Huion H640P Settings
+Comment=Button and Pressure Settings for Huion H640P
+Exec=/opt/Huion/xsetwacom-huion-button.sh
+NoDisplay=false
+Type=Application
+Hidden=false
