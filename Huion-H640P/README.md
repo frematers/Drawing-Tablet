@@ -16,9 +16,9 @@ Open .conf file, change MatchUSBID with your usb ID - lsusb
 
 +++++++++++ Second Method ++++++++++
 
-Or copy ~/Huion-H640P/xsetwacom-huion-button.sh to /opt/Huion/
+Or copy xsetwacom-huion-button.sh to /opt/Huion/
 
-Add autostart script huion.desktop to ~/.config/autostart/huion.desktop
+Add autostart script huion.desktop to ~/.config/autostart/
 
 And finish ^_^
 
