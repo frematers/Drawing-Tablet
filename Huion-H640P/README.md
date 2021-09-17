@@ -10,7 +10,7 @@ Follow this instruction :
 2. Copy 50-tablet.conf & 52-tablet.conf to /etc/X11/xorg.conf.d/ (create new directory)
 3. OR copy 99-huionh640p.conf to /usr/share/X11/xorg.conf.d/
 
-After all finis, running script ./xsetwacom-huion-button.sh
+After that, run script ./xsetwacom-huion-button.sh
 
 +++++++++++ Second Method ++++++++++
 
