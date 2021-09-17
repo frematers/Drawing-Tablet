@@ -12,6 +12,8 @@ Follow this instruction :
 
 After that, run script ./xsetwacom-huion-button.sh
 
+Open .conf file, change MatchUSBID with your usb ID - lsusb
+
 +++++++++++ Second Method ++++++++++
 
 Or copy ~/Huion-H640P/xsetwacom-huion-button.sh to /opt/Huion/
