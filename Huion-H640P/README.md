@@ -3,22 +3,19 @@
 
 Installing Driver Huion H640P (All Driver)
 
-+++++++++++ First Method ++++++++++
-
 Follow this instruction :
 1. Install driver : https://github.com/DIGImend/digimend-kernel-drivers
 2. Copy 50-tablet.conf & 52-tablet.conf to /etc/X11/xorg.conf.d/ (create new directory)
 3. OR copy 99-huionh640p.conf to /usr/share/X11/xorg.conf.d/
 
+*Open .conf file, change MatchUSBID with your usb ID - lsusb
+
 After that, run script ./xsetwacom-huion-button.sh
 
-Open .conf file, change MatchUSBID with your usb ID - lsusb
 
-+++++++++++ Second Method ++++++++++
-
-Or copy xsetwacom-huion-button.sh to /opt/Huion/
-
-Add autostart script huion.desktop to ~/.config/autostart/
+Autostart script:
+1. Copy xsetwacom-huion-button.sh to /opt/Huion/
+2. Add autostart script huion.desktop to ~/.config/autostart/
 
 And finish ^_^
 
